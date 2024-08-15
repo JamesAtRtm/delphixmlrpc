@@ -174,7 +174,7 @@ implementation
 {$IFDEF WIN32}
 
 uses
-  App.Debug,
+//  App.Debug,
   Windows;
 {$ENDIF}
 { ------------------------------------------------------------------------------ }
